@@ -5,8 +5,6 @@
 
 Here are some ideas to get you started:
 
-[yamai](https://twitter.com/yamai_22)
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -16,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Twitter: yamai](https://img.shields.io/twitter/follow/HinataYasukawa?style=social)](https://twitter.com/yamai_22))
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=contiki9&left_color=gray&right_color=blue)
+ 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HinataYasukawa&theme=vue)
+ 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HinataYasukawa&show_icons=true)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HinataYasukawa&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
