@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Twitter: yamai](https://img.shields.io/twitter/follow/HinataYasukawa?style=social)](https://twitter.com/yamai_22)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=contiki9&left_color=gray&right_color=blue)
+[![Twitter: yamai](https://img.shields.io/twitter/follow/yamai_22?style=social)](https://twitter.com/yamai_22)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=HinataYasukawa&left_color=gray&right_color=blue)
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HinataYasukawa&theme=vue)
  
