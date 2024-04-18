@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Twitter: yamai](https://img.shields.io/twitter/follow/yamai_22?style=social)](https://twitter.com/yamai_22)
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HinataYasukawa&theme=vue)
  
