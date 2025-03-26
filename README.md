@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HinataYasukawa&theme=vue)
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HinataYasukawa&show_icons=true)
- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HinataYasukawa&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My Skills](https://skillicons.dev/icons?i=c,java,python,go,javascript,typescript,react,html,css)](https://skillicons.dev)
