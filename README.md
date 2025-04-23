@@ -15,4 +15,9 @@ Here are some ideas to get you started:
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HinataYasukawa&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,go,javascript,typescript,react,html,css)](https://skillicons.dev)
+# My Skills
+## Language
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,go,javascript,typescript,html,css)](https://skillicons.dev)
+
+## Framework
+[![My Skills](https://skillicons.dev/icons?i=react,unity)](https://skillicons.dev)
